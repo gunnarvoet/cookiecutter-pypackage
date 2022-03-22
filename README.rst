@@ -4,7 +4,7 @@ Cookiecutter Research Project
 
 Cookiecutter_ template for a research project using Python code and Sphinx docs.
 
-* GitHub repo: https://github.com/gunnarvoet/cookiecutter-research-project/
+* GitHub repo: https://github.com/gunnarvoet/cookiecutter-research-project-sphinx/
 * Free software: BSD license
 
 Features
@@ -29,7 +29,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python-based research project::
 
-    cookiecutter https://github.com/gunnarvoet/cookiecutter-research-project.git
+    cookiecutter https://github.com/gunnarvoet/cookiecutter-research-project-sphinx.git
 
 Then:
 
